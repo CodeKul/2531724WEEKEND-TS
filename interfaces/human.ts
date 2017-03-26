@@ -20,6 +20,6 @@ export class Human implements GpsListener {
 
 let gps: GpsListener = {
     location() {
-        return '';
+        return 'pune';
     }
 };
